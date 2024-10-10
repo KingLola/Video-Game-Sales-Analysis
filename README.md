@@ -54,7 +54,7 @@ We used Pivot tables in EXcel to analyze the data
 - The top 10 games sold includes; Wii Sports, Grand Theft Auto, Super Mario Bros, Tetras, Mario Kart Wii.
 - The year with the highest sales is 2008. According the data, In 2006, the Sports Genre took the lead in Global sales but in 2008 there was a sudden increase in sale of Action Genre. The rise in the global sales of Action Genre was influenced but the increased demand for Actions Games such as Grand Thef Auto and Call of Duty.
 
-### Recommendations:
+### Recommendations
 ---
 - To boost sales in the current year, we would recommend;
 Conduct a survey on current trending genre and games 
